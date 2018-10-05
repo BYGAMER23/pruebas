@@ -1,0 +1,24 @@
+body{   
+    background:white
+}
+
+;h1 {
+    color:rgb(30, 214, 14);
+    text-align: center
+    
+}
+p{
+    text-align: center
+}
+.imagdhh{
+    width: 400px; height: 400px;
+}
+div{
+    background: green;
+    width: 1000px;
+    margin: 100px auto;
+    text-align: center;
+}h1:hover{
+    font-size: 40px;
+    color:purple
+}
